@@ -14,10 +14,10 @@ import (
 	"testing"
 	"time"
 
+	"github.com/paulquerna-okta/gorp"
 	"github.com/poy/onpar"
 	"github.com/poy/onpar/expect"
 	"github.com/poy/onpar/matchers"
-	"github.com/go-gorp/gorp"
 )
 
 func TestMySQLDialect(t *testing.T) {

@@ -1,4 +1,4 @@
-module github.com/go-gorp/gorp
+module github.com/paulquerna-okta/gorp
 
 go 1.13
 
